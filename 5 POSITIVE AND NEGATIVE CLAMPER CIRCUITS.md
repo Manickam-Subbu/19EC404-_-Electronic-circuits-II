@@ -23,8 +23,6 @@
 ![WhatsApp Image 2025-11-21 at 09 24 47_2604213f](https://github.com/user-attachments/assets/e0a7f446-1367-4c6f-b592-87d392adbb4d)
 
 
-# Sample images 
-![WhatsApp Image 2025-11-15 at 13 19 42_b808ede1](https://github.com/user-attachments/assets/00a2b088-3d2f-429c-a4d3-61aef755f3ef)
 
 
 # Result
