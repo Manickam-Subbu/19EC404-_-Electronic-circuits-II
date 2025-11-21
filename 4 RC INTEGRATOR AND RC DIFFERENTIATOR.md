@@ -28,9 +28,10 @@
 
 # Graph
 ## Differentiator
-![WhatsApp Image 2025-11-09 at 20 01 28_9bddf799](https://github.com/user-attachments/assets/5e8d7d36-bc9c-40be-a7b5-b8d6b8529fc8) 
+![WhatsApp Image 2025-11-21 at 09 37 59_65d2df4c](https://github.com/user-attachments/assets/7285054f-6667-46c5-9b14-59e55f3ca689)
+
 ## Integrator
-![WhatsApp Image 2025-11-09 at 20 01 27_dc058c83](https://github.com/user-attachments/assets/ca3e0d67-62be-4983-81cd-337279baa6b1)
+![WhatsApp Image 2025-11-21 at 09 37 59_b207bd03](https://github.com/user-attachments/assets/bae2aea7-ef46-484a-9ca2-eaedebde90a6)
 
 
 
